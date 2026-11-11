@@ -814,3 +814,5 @@ caption { text-align: left; }
 .eueetu__xicara img { display: block; width: 100%; height: auto; }
 .eueetu__xicara figcaption { position: absolute; right: 0.6rem; bottom: 0.5rem; padding: 0.1rem 0.55rem; border-radius: 999px; font-size: 0.75rem; color: #fff; background: rgba(20, 16, 40, 0.7); }
 .eueetu .duo { align-items: start; }
+.legenda .credito { display: block; font-size: 0.75rem; opacity: 0.8; }
+.com-legenda .foto img { width: 100%; height: 100%; object-fit: cover; display: block; }
